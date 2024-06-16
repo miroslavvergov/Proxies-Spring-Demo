@@ -1,2 +1,5 @@
-package com.miro.proxiesspringdemo.service;public interface IUserService {
+package com.miro.proxiesspringdemo.service;
+
+public interface IUserService {
+    void hello();
 }
